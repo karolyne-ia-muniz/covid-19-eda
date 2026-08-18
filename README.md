@@ -4,8 +4,8 @@ Análise exploratória e dashboard interativo em **Streamlit** sobre a situaçã
 
 Dataset: [Kaggle](https://www.kaggle.com/datasets/anandhuh/covid19-in-world-countrieslatest-data/data)
 
-[Visão Geral](Captura de Tela (440).png) 
-[Ranking](Captura de Tela (441).png)
+![Visão Geral](https://github.com/karolyne-ia-muniz/covid-19-eda/blob/main/Captura%20de%20Tela%20(440).png) 
+![Ranking](https://github.com/karolyne-ia-muniz/covid-19-eda/blob/main/Captura%20de%20Tela%20(441).png)
 
 ---
 
