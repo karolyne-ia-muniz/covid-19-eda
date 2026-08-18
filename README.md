@@ -4,7 +4,7 @@ Análise exploratória e dashboard interativo em **Streamlit** sobre a situaçã
 
 Dataset: [Kaggle](https://www.kaggle.com/datasets/anandhuh/covid19-in-world-countrieslatest-data/data)
 
-[Captura de Tela (440).png] [Captura de Tela (441).png]
+(Captura de Tela (440).png) (Captura de Tela (441).png)
 
 ---
 
@@ -95,7 +95,7 @@ O dataset é um **snapshot agregado** (uma foto no tempo, não uma série tempor
 
 ```bash
 # Clone o repositório
-git clone [<url-do-repositorio>](https://github.com/karolyne-ia-muniz/covid-19-eda/)
+git clone [<(https://github.com/karolyne-ia-muniz/covid-19-eda/)>]
 
 # Crie um ambiente virtual (recomendado)
 python -m venv venv
@@ -125,5 +125,5 @@ jupyter notebook notebooks/01_covid_eda.ipynb
 
 ## ✍️ Autor
 
-*[seu nome]* — Data Scientist / Data Analyst
-[LinkedIn](#) · [GitHub](#)
+*Karolyne Muniz* — Data Scientist / Data Analyst
+[LinkedIn](https://www.linkedin.com/in/karolyne-muniz/) · [GitHub](https://github.com/karolyne-ia-muniz)
