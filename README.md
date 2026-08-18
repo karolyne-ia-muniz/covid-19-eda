@@ -4,7 +4,8 @@ Análise exploratória e dashboard interativo em **Streamlit** sobre a situaçã
 
 Dataset: [Kaggle](https://www.kaggle.com/datasets/anandhuh/covid19-in-world-countrieslatest-data/data)
 
-(Captura de Tela (440).png) (Captura de Tela (441).png)
+[Visão Geral](Captura de Tela (440).png) 
+[Ranking](Captura de Tela (441).png)
 
 ---
 
@@ -29,7 +30,7 @@ Ir além do "quadro geral" da pandemia e responder, com dados, perguntas que cos
 - **Qualidade de dados importa.** A Coreia do Norte reporta 4,77 milhões de casos e apenas 74 mortes (mortalidade ≈0%), sem nenhum dado de testagem — um padrão estatisticamente incompatível com o resto do dataset, tratado como outlier na análise.
 - A mortalidade global agregada no snapshot é de aproximadamente **1%** (6,9M mortes em 695M casos confirmados).
 
-📓 A análise completa, com todos os gráficos e o raciocínio por trás de cada resposta, está em [`notebooks/01_covid_eda.ipynb`](notebooks/01_covid_eda.ipynb).
+📓 A análise completa, com todos os gráficos e o raciocínio por trás de cada resposta, está em [`notebooks/01_covid_eda.ipynb`](01_covid_eda.ipynb).
 
 ## 🖥️ O dashboard
 
@@ -112,7 +113,7 @@ Para rodar o notebook de EDA:
 
 ```bash
 pip install -r requirements-notebook.txt
-jupyter notebook notebooks/01_covid_eda.ipynb
+jupyter notebook /01_covid_eda.ipynb
 ```
 
 ## 🛠️ Tecnologias
