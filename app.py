@@ -4,7 +4,7 @@ COVID-19 Worldwide Dashboard
 Dashboard interativo em Streamlit para explorar dados globais de casos,
 mortes, recuperações e testes de COVID-19 por país.
 
-Autor: [seu nome]
+Autor: Karolyne Muniz
 Fonte dos dados: Worldwide COVID-19 dataset (snapshot agregado, 221 países/territórios)
 """
 
