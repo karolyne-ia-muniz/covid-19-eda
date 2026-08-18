@@ -2,7 +2,9 @@
 
 Análise exploratória e dashboard interativo em **Streamlit** sobre a situação global da COVID-19, cobrindo 221 países e territórios: casos, mortes, recuperações, casos ativos e testes realizados — em números absolutos e ajustados por população.
 
-> 🖼️ *Adicione aqui 1-2 screenshots do dashboard depois de rodá-lo localmente ou fazer o deploy (aba "Visão Geral" e aba "Rankings" costumam ficar bem no README).*
+Dataset: [Kaggle](https://www.kaggle.com/datasets/anandhuh/covid19-in-world-countrieslatest-data/data)
+
+[Captura de Tela (440).png] [Captura de Tela (441).png]
 
 ---
 
@@ -93,8 +95,7 @@ O dataset é um **snapshot agregado** (uma foto no tempo, não uma série tempor
 
 ```bash
 # Clone o repositório
-git clone <url-do-repositorio>
-cd covid_dashboard
+git clone [<url-do-repositorio>](https://github.com/karolyne-ia-muniz/covid-19-eda/)
 
 # Crie um ambiente virtual (recomendado)
 python -m venv venv
